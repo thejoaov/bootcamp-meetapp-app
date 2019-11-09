@@ -64,7 +64,7 @@ Para iniciar o projeto no iOs, o comando é `yarn ios`, e para a versão de prod
 
 **ATENÇÃO**: Ao iniciar a versão de produção através do `yarn release:*platform*`, a aplicação estará utilizando a API de produção. Esta variante não é recomendada para desenvolvimento.
 
-```json
+```javascript
   "scripts": {
     // Inicia o servidor metro
     "start": "react-native start",
