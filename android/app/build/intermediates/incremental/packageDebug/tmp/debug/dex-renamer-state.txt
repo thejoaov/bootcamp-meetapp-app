@@ -1,4 +1,0 @@
-#Sat Oct 26 23:20:55 BRT 2019
-base.0=/home/thejoaov/GitHub/bootcamp-meetapp/app/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
